@@ -67,6 +67,8 @@ License
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    Slack bot token which is not correct is xoxb-abc-def xoxb-123456789-123456789 
+    but not this xoxb-0123456789-9876543210-def-ghi
 
 
 
